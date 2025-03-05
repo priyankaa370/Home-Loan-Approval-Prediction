@@ -15,7 +15,7 @@ Below is the Entity-Relationship Diagram for the Dream Housing Finance comapany 
 
 # Executive Summary
 
-A dataset collected from the application form containing applicant information was analyzed. A linear regression model was employed to predict loan approval outcomes based on key features. 
+A dataset collected from the application form containing applicant information was analyzed. A logistic regression model was employed to predict loan approval outcomes based on key features. 
 
 The classification model achieved an overall accuracy of 90% on the test dataset, demonstrating moderate reliability in predicting loan approval outcomes.
 The findings show that **credit history** is the most influential factor in determining loan approval with an importance score of 0.24. Following credit history, **the applicant's income and the loan amount** are the second and third most critical factors influencing loan approval decisions. 
